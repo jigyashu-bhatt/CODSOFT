@@ -10,7 +10,7 @@ print("""\
 #    #  #    # #    # #   #     #       #    # #      #      #   #     #     # #    # # #    # #    # #    # #   #  
 #     #  ####   ####  #    #    #       #    # #      ###### #    #     #####   ####  #  ####   ####   ####  #    #             
                                                                                                     --by jigyashu
-                                                                    """)
+                                                                                                                     """)
 while True:
 
     print("Enter your choice \n 1 - Rock \n 2 - Paper \n 3 - Scissors \n")
